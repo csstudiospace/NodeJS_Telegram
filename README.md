@@ -1,1 +1,7 @@
-this is tutorial for Node.js examples and Telegram bot usages
+this is a nodejs telegram bot example
+
+[Folder Architecture]
+    reference: FolderArchitecture.PNG
+
+[How to Start]
+    please read workspace/README.md
