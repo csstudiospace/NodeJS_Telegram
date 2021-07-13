@@ -64,8 +64,8 @@ testfunc2("10", function(f){
 
 
 //========================================================
-async function wait_moment(){
-	for(var i=0; i<100000; i++){}
+function wait_moment(){
+	for(var i=0; i<200000; i++){}
 }
 async function testfunc3_wait(x, callback){
 	await wait_moment();
